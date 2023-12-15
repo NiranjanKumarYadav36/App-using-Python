@@ -10,5 +10,5 @@ add_button = sg.Button("Add")
 
 window = sg.Window('To-Do App', layout=[[label, input_box, add_button]])
 window.read()
-window.minimize(True)
 window.close()
+
