@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec77d2d1-9829-48e6-bd6b-92d1645a763b" name="Changes" comment="Create basic GUI without interactions">
+    <list default="true" id="ec77d2d1-9829-48e6-bd6b-92d1645a763b" name="Changes" comment="completed todo app">
+      <change afterPath="$PROJECT_DIR$/build/gui/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/gui.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/warn-gui.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/gui/xref-gui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
     </list>
@@ -38,6 +53,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.converter.executor&quot;: &quot;Run&quot;,
     &quot;Python.functions.executor&quot;: &quot;Run&quot;,
     &quot;Python.gui.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
@@ -54,7 +70,7 @@
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.functions">
+  <component name="RunManager" selected="Python.gui">
     <configuration name="cli" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ToDo-List-App" />
       <option name="ENV_FILES" value="" />
@@ -69,6 +85,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\cli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToDo-List-App" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/converter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,8 +161,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.functions" />
         <item itemvalue="Python.gui" />
+        <item itemvalue="Python.converter" />
+        <item itemvalue="Python.functions" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +215,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702634940670</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="completed todo app">
+      <option name="closed" value="true" />
+      <created>1702707181083</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702707181083</updated>
+    </task>
+    <task id="LOCAL-00006" summary="completed todo app">
+      <option name="closed" value="true" />
+      <created>1702708728134</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702708728134</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +248,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create basic GUI without interactions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create basic GUI without interactions" />
+    <MESSAGE value="completed todo app" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed todo app" />
   </component>
 </project>
