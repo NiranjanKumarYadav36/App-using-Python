@@ -1,4 +1,4 @@
-import functions
+from ToDo import functions
 import PySimpleGUI as sg
 import time
 import os
