@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec77d2d1-9829-48e6-bd6b-92d1645a763b" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/build/converter/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/Tree-02.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/converter.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/warn-converter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/converter/xref-converter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/Tree-02.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/gui.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/warn-gui.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/gui/xref-gui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/converter.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +52,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\Feet-to-Meter-converter" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\ToDo-App" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.gui">
     <configuration name="cli" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -95,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\cli.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\ToDo-App\cli.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/converter.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\Feet-to-Meter-converter\converter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\ToDo-App\functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gui.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\ToDo-App\gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702723183379</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702723990071</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702723990071</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
