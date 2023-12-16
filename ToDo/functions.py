@@ -1,4 +1,5 @@
-FILEPATH = "todos.txt"
+FILEPATH = "ToDo/todos.txt"
+
 
 # parameter
 # non default parameters is placed before default parameters
