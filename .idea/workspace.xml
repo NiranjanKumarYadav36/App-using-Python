@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec77d2d1-9829-48e6-bd6b-92d1645a763b" name="Changes" comment="completed todo app">
+    <list default="true" id="ec77d2d1-9829-48e6-bd6b-92d1645a763b" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/build/converter/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/converter.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/warn-converter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/converter/xref-converter.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/gui/Analysis-00.toc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/gui/EXE-00.toc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/gui/PKG-00.toc" afterDir="false" />
@@ -17,12 +29,11 @@
       <change afterPath="$PROJECT_DIR$/build/gui/gui.pkg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/gui/warn-gui.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/gui/xref-gui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/gui.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/converter.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +242,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702708728134</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="completed todo app">
+      <option name="closed" value="true" />
+      <created>1702715085634</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702715085634</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702723183379</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702723183379</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +276,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create basic GUI without interactions" />
     <MESSAGE value="completed todo app" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed todo app" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
