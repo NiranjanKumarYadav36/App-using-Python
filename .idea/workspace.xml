@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec77d2d1-9829-48e6-bd6b-92d1645a763b" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/File_Extractor/ZipExtractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Extractor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Extractor/doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Extractor/files/doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Extractor/files/presentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Extractor/files/report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Extractor/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Extractor/output.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Extractor/presentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Extractor/report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/todos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/webapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/webapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feet_to_Meter-Converter/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feet_to_Meter-Converter/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feet_to_Meter-Converter/converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feet_to_Meter-Converter/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j/meter_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feet_to_Meter-Converter/meter_converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,39 +51,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.cli (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.converter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gui (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.gui.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.web (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.web.executor&quot;: &quot;Run&quot;,
-    &quot;Python.webapp (1).executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANIL KUMAR YADAV/python app/ToDo-List-App&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.ZipExtractor.executor": "Run",
+    "Python.cli (1).executor": "Run",
+    "Python.converter.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.gui (1).executor": "Run",
+    "Python.gui (2).executor": "Run",
+    "Python.gui.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.web (1).executor": "Run",
+    "Python.web.executor": "Run",
+    "Python.webapp (1).executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/ToDo-List-App",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\File_Exctractor" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\j" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\ToDo" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\Feet-to-Meter-converter" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\ToDo-App" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cli">
-    <configuration name="cli (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.gui (2)">
+    <configuration name="ZipExtractor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ToDo-List-App" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feet-to-Meter-converter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_Exctractor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feet-to-Meter-converter/cli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_Exctractor/ZipExtractor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,6 +122,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\ToDo\cli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToDo-List-App" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_Exctractor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_Exctractor/gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gui (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToDo-List-App" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_Extractor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_Extractor/gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,9 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gui (2)" />
+        <item itemvalue="Python.ZipExtractor" />
+        <item itemvalue="Python.gui (1)" />
         <item itemvalue="Python.webapp" />
         <item itemvalue="Python.webapp" />
-        <item itemvalue="Python.cli (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702735524439</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702744054071</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1702744054071</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
