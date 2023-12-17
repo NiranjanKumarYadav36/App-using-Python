@@ -4,33 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec77d2d1-9829-48e6-bd6b-92d1645a763b" name="Changes" comment="implemnet &quot;Add new todo items&quot; feature">
-      <change afterPath="$PROJECT_DIR$/ANIL.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/Tree-02.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/extractor.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/warn-extractor.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/extractor/xref-extractor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/extractor.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extractor.spec" afterDir="false" />
+    <list default="true" id="ec77d2d1-9829-48e6-bd6b-92d1645a763b" name="Changes" comment="converte all apps in format of .exe">
+      <change afterPath="$PROJECT_DIR$/graysacle_image/photo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feet_to_Meter-Converter/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feet_to_Meter-Converter/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feet_to_Meter-Converte/cli.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feet_to_Meter-Converter/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feet_to_Meter-Converte/converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feet_to_Meter-Converter/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feet_to_Meter-Converte/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feet_to_Meter-Converter/meter_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Feet_to_Meter-Converte/meter_converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Extractor/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Extractor/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Extractor/zip_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip_extractor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/todos.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/webapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/webapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/File_Extractor/extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zip_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/File_Extractor/zip_extractor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,42 +40,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.ZipExtractor.executor": "Run",
-    "Python.cli (1).executor": "Run",
-    "Python.converter.executor": "Run",
-    "Python.functions (1).executor": "Run",
-    "Python.functions.executor": "Run",
-    "Python.gui (1).executor": "Run",
-    "Python.gui (2).executor": "Run",
-    "Python.gui (3).executor": "Run",
-    "Python.gui.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.web (1).executor": "Run",
-    "Python.web.executor": "Run",
-    "Python.webapp (1).executor": "Run",
-    "Python.webapp.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ANIL KUMAR YADAV/python app/ToDo-List-App/File_Extractor",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.ZipExtractor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cli (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.converter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.web (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.web.executor&quot;: &quot;Run&quot;,
+    &quot;Python.webapp (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.webapp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANIL KUMAR YADAV/python app/ToDo-List-App/File_Extractor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\File_Extractor" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\graysacle_image" />
+      <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\File_Extractor" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\Feet_to_Meter-Converte" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\File_Extractor" />
       <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\To" />
-      <recent name="C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\File_Exctractor" />
     </key>
   </component>
   <component name="RunManager" selected="Python.webapp">
@@ -474,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702790276084</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="converte all apps in format of .exe">
+      <option name="closed" value="true" />
+      <created>1702810511653</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1702810511653</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,6 +482,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="file extraction" />
     <MESSAGE value="implemnet &quot;Add new todo items&quot; feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemnet &quot;Add new todo items&quot; feature" />
+    <MESSAGE value="converte all apps in format of .exe" />
+    <option name="LAST_COMMIT_MESSAGE" value="converte all apps in format of .exe" />
   </component>
 </project>
