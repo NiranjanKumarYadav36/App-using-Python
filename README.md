@@ -1,7 +1,8 @@
                                              [ToDo List App]
 - [Command Line Interface](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/ToDo-App/cli.py)                                                                                  
-- [Desktop Graphical User Interface](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/ToDo-App/gui.py)
+- [Desktop Graphical User Interface(code)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/ToDo/gui.py)
 - [Web Interface Programs](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/ToDo/webapp.py)
+- [Desktop Graphical User Interface(app)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/dist/gui.exe)
 
                                           [Feet to Meter Converter]
 - [Command Line Interface]()
