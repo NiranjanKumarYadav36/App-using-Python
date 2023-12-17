@@ -1,4 +1,4 @@
-FILEPATH = "ToDo/todos.txt"
+FILEPATH = r"C:\Users\ANIL KUMAR YADAV\python app\ToDo-List-App\ToDo\todos.txt"
 
 
 # parameter
@@ -11,7 +11,8 @@ def get_todos(filepath=FILEPATH):
     """
     with open(filepath, "r") as file_local:
         todos_local = file_local.readlines()
-    return todos_local
+        return todos_local
+
 
 # doc strings
 
@@ -22,6 +23,7 @@ def write_todos(todos_arg, filepath=FILEPATH):
     """ Write the to-do items in the text field. """
     with open(filepath, "w") as file_local:
         file_local.writelines(todos_arg)
+
 
 # value of __name__ will be main when we run functions program
 # print(__name__)
