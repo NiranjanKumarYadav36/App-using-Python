@@ -11,14 +11,17 @@ def todo_to_added():
 
 
 st.title("TODo App")
-
 st.subheader("TO Improve your Productivity")
 
-for todo in todos:
-    st.checkbox(todo)
+for index, todo in enumerate(todos):
+    checkbox = st.checkbox(todo, key=todo)
+    if checkbox:
+        todos.pop(index)
+        functions.write_todos(todos)
+        del st.session_state[todo]
+        st.experimental_rerun()
+
 
 st.text_input(label=" ", placeholder="Enter todo...", on_change=todo_to_added, key='new')
 
-print("Hello")
 
-st.session_state
