@@ -57,7 +57,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANIL KUMAR YADAV/python app/ToDo-List-App/File_Extractor&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANIL KUMAR YADAV/python app/All&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -465,7 +465,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702827684373</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added app that convert image to grayscale">
+      <option name="closed" value="true" />
+      <created>1702834129251</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702834129251</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added app that convert image to grayscale">
+      <option name="closed" value="true" />
+      <created>1702834280235</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1702834280235</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
