@@ -2,7 +2,7 @@
 - [Command Line Interface](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/ToDo-App/cli.py)                                                                                  
 - [Desktop Graphical User Interface(code)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/ToDo/gui.py)
 - [Web Interface Programs](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/ToDo/webapp.py)
-- [Desktop Graphical User Interface(app)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/dist/todo.exe)
+  ## Desktop Graphical User Interface(app)
   #### to use app on your desktop:- Download the [gui.exe](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/dist/todo.exe)
 
   
@@ -13,7 +13,7 @@
 - [Command Line Interface]()
 - [Desktop Graphical User Interface (code)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/Feet_to_Meter-Converte/converter.py)
 - [Web Interface Programs]()                     
-- [Desktop Graphical User Interface (app)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/dist/converter.exe)
+  ## Desktop Graphical User Interface(app)
   #### to use app on your desktop:- Download the [gui.exe](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/dist/converter.exe)
 
   
