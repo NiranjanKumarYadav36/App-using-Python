@@ -21,4 +21,9 @@
 
 
                                              [File Extractor]
-- [Desktop Graphical User Interface (app)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/File_Extractor/extractor.py)
+- [Desktop Graphical User Interface (code)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/File_Extractor/extractor.py)
+  ### Desktop Graphical User Interface(app)
+  #### to use app on your desktop:- Download the [gui.exe](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/dist/extractor.exe)
+  
+
+  
