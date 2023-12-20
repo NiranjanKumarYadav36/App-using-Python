@@ -3,6 +3,8 @@
 - [Desktop Graphical User Interface(code)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/ToDo/gui.py)
 - [Web Interface Programs](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/ToDo/webapp.py)
 - [Desktop Graphical User Interface(app)](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/dist/todo.exe)
+#### to use app on your desktop:- 1. Download the [gui.exe](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/dist/todo.exe)
+####                              2. Run the application now
 
   
   ![](https://github.com/NiranjanKumarYadav36/App-using-Python/blob/main/gui_iamge.jpg)
